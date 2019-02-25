@@ -1,0 +1,20 @@
+{
+  "name": "profile-miniapp",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-native": "0.57.8"
+  },
+  "ern": {
+    "moduleName": "ProfileMiniApp",
+    "moduleType": "ern-miniapp",
+    "version": "0.29.4"
+  },
+  "keywords": [
+    "ern-miniapp"
+  ]
+}
